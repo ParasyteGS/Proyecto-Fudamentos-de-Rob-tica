@@ -1,7 +1,13 @@
 # Proyecto-Fudamentos-de-Robotica
 
 ## Ingregrantes
-Alexander Astorga  
+Alexander Astorga
+
+
 Luciano Bacigalupo  
+
+
 Benajamin Castañeda  
+
+
 Jose Cacerés 
