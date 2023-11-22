@@ -1,4 +1,4 @@
-# Proyecto-Fudamentos-de-Robotica
+# Proyecto Fudamentos de Robótica
 
 ## Ingregrantes
 Alexander Astorga
